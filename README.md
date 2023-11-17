@@ -3,7 +3,7 @@
  
 </p>
 
-<img src="https://github.com/devjoselima/efood/assets/111407140/9322b00b-e0bc-48dd-9f77-862b6563446b">
+
 
 <h2>❔ Descrição:</h2>
 O eFood é um e-commerce de restaurantes desenvolvido com tecnologias com TypeScript, React e Styled Components. Este projeto permite aos usuários explorar uma variedade de restaurantes, visualizar seus cardápios, adicionar pratos deliciosos ao carrinho de compras e finalizar suas compras com facilidade. Os usuários podem navegar por uma lista de restaurantes, ver os pratos disponíveis com descrições, preços e imagens, adicionar itens ao carrinho de compras e concluir a compra com informações de pagamento e entrega.

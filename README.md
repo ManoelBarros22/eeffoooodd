@@ -1,6 +1,6 @@
 <h1 align="center"> 🍴 Efood </h1>
 <p align="center">
-  <a href="https://efood-rho.vercel.app/">Ver projeto</a>
+ 
 </p>
 
 <img src="https://github.com/devjoselima/efood/assets/111407140/9322b00b-e0bc-48dd-9f77-862b6563446b">

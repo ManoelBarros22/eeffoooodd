@@ -127,6 +127,10 @@ const Checkout = () => {
     }
   }
 
+  function reload(): void {
+    throw new Error('Function not implemented.')
+  }
+
   return (
     <Container className={isOpen ? 'is-open' : ''}>
       <Overlay onClick={handleCheckout} />
@@ -327,7 +331,7 @@ const Checkout = () => {
                 Esperamos que desfrute de uma deliciosa e agradável experiência
                 gastronômica, Bom apetite!
               </p>
-              <Button onClick={() => location.reload()}>Concluir</Button>
+              <Button>Concluir</Button>
             </>
           )}
         </div>
